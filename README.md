@@ -17,13 +17,13 @@
 ### <p align='center'> To-do: </p>
 
 <b>
-- ## 🔹 Sintaxe Básica, Tipos e Operadores
+- 🔹 Sintaxe Básica, Tipos e Operadores
 - ✅ Entrada e Saída Básica (Scanner, System.out.printf)
 - ✅ Tipos Primitivos (int, double, etc.)
 - ✅ Operadores Aritméticos, de Atribuição e Relacionais
 - ✅ Operadores de Incremento/Decremento (++, --)
 - ✅ Operadores Lógicos (&&, ||, !)
-- ## 🔹 Estruturas de Controle e Fluxo
+- 🔹 Estruturas de Controle e Fluxo
 - ✅ Condicionais Seleção Única / Dupla / Aninhadas (if, if...else)
 - ✅ Seleção Múltipla (switch)
 - ✅ Loops de Repetição (while, do...while, for)
