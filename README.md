@@ -61,7 +61,7 @@
 
 
 
-* ## 🔹 Fundamentos de POO (Programação Orientada a Objetos) 
+*  🔹 Fundamentos de POO (Programação Orientada a Objetos) 
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-* ## 🔹 Tipos Avançados, Recursos da Linguagem e Pacotes 
+*  🔹 Tipos Avançados, Recursos da Linguagem e Pacotes 
 
 
 
@@ -125,7 +125,7 @@
 
 
 
-* ## 🔹 Estruturas de Dados Básicas e Coleções 
+*  🔹 Estruturas de Dados Básicas e Coleções 
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-* ## 🔹 POO Avançada: Herança, Polimorfismo e Interfaces 
+*  🔹 POO Avançada: Herança, Polimorfismo e Interfaces 
 
 
 
@@ -181,7 +181,7 @@
 
 
 
-* ## 🔹 Tratamento de Exceções 
+*  🔹 Tratamento de Exceções 
 
 
 
@@ -207,7 +207,7 @@
 
 
 
-* ## 🔹 Manipulação de Textos e Expressões Regulares 
+*  🔹 Manipulação de Textos e Expressões Regulares 
 
 
 
@@ -229,7 +229,7 @@
 
 
 
-* ## 🔹 Arquivos, I/O e Serialização 
+*  🔹 Arquivos, I/O e Serialização 
 
 
 
@@ -255,7 +255,7 @@
 
 
 
-* ## 🔹 Programação Funcional (Java SE 8) 
+*  🔹 Programação Funcional (Java SE 8) 
 
 
 
@@ -273,7 +273,7 @@
 
 
 
-* ###🔹 Tópicos Avançados e Concorrência 
+* 🔹 Tópicos Avançados e Concorrência 
 
 
 
